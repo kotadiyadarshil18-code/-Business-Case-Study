@@ -1,3 +1,4 @@
+
 # 📊 Regional Sales 2025 Dashboard
 
 ## 📌 Project Overview
@@ -103,6 +104,7 @@ FROM regionalSales2025
 GROUP BY Category;
 ```
 ## Output
+<img width="292" height="131" alt="Screenshot 2026-05-23 165229" src="https://github.com/user-attachments/assets/bb550dc0-6dd3-4418-9b8a-3d0db7a05182" />
 
 
 ---
@@ -120,6 +122,7 @@ ORDER BY TotalRevenue DESC
 LIMIT 5;
 ```
 ## Output
+<img width="288" height="324" alt="Screenshot 2026-05-23 165234" src="https://github.com/user-attachments/assets/1ec40028-8438-4940-afa8-41dc98f24438" />
 
 ---
 
@@ -133,6 +136,7 @@ FROM regionalSales2025
 GROUP BY Category;
 ```
 ## Output
+<img width="237" height="131" alt="Screenshot 2026-05-23 165250" src="https://github.com/user-attachments/assets/694d174b-d279-4813-a85f-2debe43ac0f9" />
 
 ---
 
@@ -209,6 +213,10 @@ HAVING COUNT(*) >= 3;
 - Dashboard Screenshots
 - README Documentation
 
+
+## Video Link
+
+https://drive.google.com/file/d/12io-C-atvW6fIFzeoxds51beq_4askg_/view?usp=sharing
 ---
 
 # 👨‍💻 Author
