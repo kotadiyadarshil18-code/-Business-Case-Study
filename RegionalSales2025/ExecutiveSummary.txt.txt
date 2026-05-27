@@ -1,0 +1,13 @@
+ExecutiveSummary.txt
+
+🔹 Project Summary
+
+Customer churn analysis is used to identify customers who stop purchasing products or frequently cancel orders. In this project, churn is measured using cancelled orders and customer activity data from the sales dataset. The main purpose of this analysis is to understand customer behavior and identify high-risk customers who may leave the business.
+
+The dataset contains important information such as customer details, regions, products, categories, order status, total sales amount, and sales agents. SQL queries are used to calculate cancellation rates, regional churn trends, and customer frequency. By analyzing cancelled orders, businesses can identify regions or customers with higher churn rates.
+
+High churn rates can negatively impact revenue and business growth. Therefore, churn analysis helps companies improve customer satisfaction, retention strategies, and service quality. The project also helps identify loyal customers and top-performing regions using sales data analysis.
+
+Different SQL concepts such as SELECT, SUM(), COUNT(), GROUP BY, ORDER BY, and CASE WHEN are used to perform the analysis. The project can also be connected with Power BI for creating dashboards and visual reports.
+
+Overall, this project demonstrates how SQL and data analytics can help businesses reduce customer churn, improve decision-making, and increase overall sales performance.

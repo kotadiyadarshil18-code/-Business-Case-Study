@@ -1,0 +1,15 @@
+Q1 Which region is underperforming and why?
+
+The South region shows lower completed sales and a higher number of cancelled orders compared to other regions. This may indicate customer dissatisfaction or weaker sales performance in that area.
+
+Q2 Are certain agents associated with more cancellations?
+
+Yes, some sales agents have a higher number of cancelled orders. This could be due to poor customer handling, delayed responses, or ineffective sales communication.
+
+Q3 Which category needs promotion or improvement?
+
+The Accessories category has lower total sales compared to Electronics and Furniture. This category may need better marketing strategies and promotional offers to improve performance.
+
+Q4 Is customer dissatisfaction concentrated in a region?
+
+Yes, customer dissatisfaction appears to be higher in regions with more cancelled orders. This suggests that service quality or delivery issues may be affecting customer experience in those regions.
